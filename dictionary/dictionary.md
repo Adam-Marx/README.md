@@ -12,4 +12,10 @@ const myObject = {};
 ```
 
 
-method: function thats defined on an object
+## method
+
+function thats defined on an object
+
+## Higher-Order Function
+
+Higher-Order functions are any functions which operate on other functions.
